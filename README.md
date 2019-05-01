@@ -6,9 +6,9 @@
  Create a java program to implement a queue. The program should take input from console on the type of operation as shown below
   * 1 for Enqueue and 2 for  Dequeue. 
       * if user inputs 1 on console, the program should ask for an input to enqueue and add the value to the queue.
-      * if user inputs 2 on console, the program should dequeue from the queue(in First in first out fashion) and print the dequeue value on console.
+      * if user inputs 2 on console, the program should dequeue from the queue(in First in first out fashion) and print the dequeued value on console.
  
-  Additional the following error conditions need to be considered
+  Additionally the following error conditions need to be considered
   * If the queue is full, and an enqueue operation is requested, the program should output to console the following error message - 
      Sorry. Currently the queue is full. Please try again later when atleast one dequeue is performed.
   * If the queue is empty, and a dequeue operation is requested, the program should output to console the following error message - 
@@ -21,7 +21,7 @@
  
  ### What the solution should look like
  
- > A working program uploaded to github(or any public git based repo) with a README file showing us how to run the program and any additional comments/assumptions that have been made in the solution provided by you.
+ > A working program uploaded to your github account(or any public git based repo) with a README file showing us how to run the program and any additional comments/assumptions that have been made in the solution provided by you.
  
  > Working solution needs to have the following
  > * Needs to run without any errors
